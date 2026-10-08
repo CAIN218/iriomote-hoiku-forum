@@ -1,0 +1,13 @@
+# 公開に不要なもの
+reference/
+CLAUDE.md
+*.pdf
+images/**/*.pdf
+
+# 開発用
+node_modules/
+
+# OS の一時ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
